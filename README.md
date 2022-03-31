@@ -18,7 +18,7 @@ Competitiveness, concentration, effective number of parties (ENP), party nationa
 Installation
 ------------
 
-You can install electoral directly fron CRAN:
+You can install electoral directly from CRAN:
 ``` r
 install.packages("electoral")
 ```
